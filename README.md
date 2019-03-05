@@ -1,7 +1,7 @@
 ## Name: 
 golang directly download url file
 ## By:
-solid.chen
+soliChen
 ## Language:
 golang
 ## For: 
